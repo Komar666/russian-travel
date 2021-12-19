@@ -1,0 +1,9 @@
+@media (max-width:768px) {
+    .photo-grid {
+        grid-template-columns: repeat(2, 1fr);
+        grid-template-rows: repeat(3, 1fr);
+        margin-left: 24px;
+        margin-right: 24px;
+        gap: 16px;
+    }
+}

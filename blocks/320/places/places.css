@@ -1,0 +1,7 @@
+@media (max-width:320px) {
+    .places {
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-top: 64px;
+    }
+}

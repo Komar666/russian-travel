@@ -1,0 +1,11 @@
+.footer {
+    border: 1px solid red;
+    margin-top: 92px;
+    max-width: 1184px;
+    min-height: 18px;
+    margin-left: 48px;
+    margin-right: 48px;
+    margin-bottom: 24px;
+    display: flex;
+    justify-content: space-between;
+}
