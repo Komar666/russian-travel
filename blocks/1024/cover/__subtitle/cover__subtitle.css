@@ -1,8 +1,0 @@
-@media (max-width:1024px) {
-    .cover__subtitle {
-        margin: 0 auto;
-        text-align: center;
-        position: static;
-        max-width: 100%;
-    }
-}

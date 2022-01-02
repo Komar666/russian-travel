@@ -1,9 +1,0 @@
-@media (max-width:320px) {
-    .cover {
-        max-width: 100%;
-        min-height: 200px;
-        margin-left: 0px;
-        margin-right: 0px;
-        display: flex;
-    }
-}
