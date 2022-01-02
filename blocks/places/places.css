@@ -1,0 +1,32 @@
+.places {
+    margin-left: 148px;
+    margin-right: 148px;
+    margin-top: 92px;
+    max-width: 984px;
+}
+
+@media (max-width:1024px) {
+    .places {
+        margin-left: 48px;
+        margin-right: 48px;
+        margin-top: 92px;
+        max-width: 928px;
+    }
+}
+
+@media (max-width:768px) {
+    .places {
+        margin-left: 24px;
+        margin-right: 24px;
+        margin-top: 88px;
+        max-width: 720px;
+    }
+}
+
+@media (max-width:320px) {
+    .places {
+        margin-left: 0px;
+        margin-right: 0px;
+        margin-top: 64px;
+    }
+}
