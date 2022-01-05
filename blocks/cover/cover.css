@@ -12,33 +12,27 @@
     flex-direction: column;
 }
 
+.cover a {
+    text-decoration: none;
+}
+
 @media (max-width:1024px) {
     .cover {
         max-width: 100%;
         min-height: 640px;
         margin-left: 0px;
         margin-right: 0px;
-        display: flex;
-        flex-direction: column;
     }
 }
 
 @media (max-width:768px) {
     .cover {
-        max-width: 100%;
         min-height: 480px;
-        margin-left: 0px;
-        margin-right: 0px;
-        display: flex;
     }
 }
 
 @media (max-width:320px) {
     .cover {
-        max-width: 100%;
         min-height: 200px;
-        margin-left: 0px;
-        margin-right: 0px;
-        display: flex;
     }
 }

@@ -1,7 +1,7 @@
 .lead__title {
     margin: 0 auto;
     max-width: 720px;
-    font-family: Inter;
+    font-family: Inter 'Best Font Ever', 'Arial', 'Helvetica', sans-serif;
     font-style: normal;
     font-weight: 900;
     font-size: 96px;
@@ -12,29 +12,15 @@
 
 @media (max-width:700px) {
     .lead__title {
-        margin: 0 auto;
-        max-width: 720px;
-        font-family: Inter;
-        font-style: normal;
-        font-weight: 900;
         font-size: 44px;
-        line-height: 100px;
-        text-align: center;
-        color: #FFFFFF;
     }
 }
 
 @media (max-width:320px) {
     .lead__title {
-        margin: 0 auto;
         width: 100%;
-        font-family: Inter;
-        font-style: normal;
-        font-weight: 900;
         font-size: 40px;
         line-height: 44px;
-        text-align: center;
-        color: #FFFFFF;
         padding: 0;
     }
 }
