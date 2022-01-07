@@ -2,14 +2,13 @@
     margin: 0 auto;
     width: 360px;
     bottom: 245px;
-    font-family: Inter 'Best Font Ever', 'Arial', 'Helvetica', sans-serif;
+    font-family: Inter;
     font-style: normal;
     font-weight: normal;
     font-size: 18px;
     line-height: 22px;
     text-align: center;
     color: #FFFFFF;
-    z-index: 1;
 }
 
 @media (max-width:1024px) {

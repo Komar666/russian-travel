@@ -3,15 +3,13 @@
     width: 560px;
     margin-top: 245px;
     margin-bottom: 32px;
-    font-family: Inter 'Best Font Ever', 'Arial', 'Helvetica', sans-serif;
+    font-family: Inter;
     font-style: normal;
     font-weight: 900;
     font-size: 72px;
     line-height: 76px;
     color: #FFFFFF;
     text-align: center;
-    position: relative;
-    z-index: 1;
     text-decoration: none;
 }
 
