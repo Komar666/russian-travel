@@ -12,10 +12,6 @@
     flex-direction: column;
 }
 
-.cover .cover__overlay {
-    text-decoration: none;
-}
-
 @media (max-width:1024px) {
     .cover {
         max-width: 100%;
@@ -35,5 +31,6 @@
 @media (max-width:320px) {
     .cover {
         min-height: 200px;
+        margin-top: 66px;
     }
 }

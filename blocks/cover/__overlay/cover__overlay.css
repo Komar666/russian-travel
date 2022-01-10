@@ -3,6 +3,7 @@
     min-height: 740px;
     transition: 1s;
     background: rgba(42, 44, 47, 0.3);
+    text-decoration: none;
 }
 
 .cover__overlay:hover {
